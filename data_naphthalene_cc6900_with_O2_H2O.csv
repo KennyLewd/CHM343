@@ -1,0 +1,46 @@
+﻿Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #6900
+Sample Name,Naphthalene
+Formula,C10H8
+Molecular Weight (g/mol),128.174
+Sample Weight (g),0.9815
+Water Temp (deg C),24.2
+Room Temp (deg C),24.33
+Water Volume (L),2
+Wire Before (g),0.027
+Wire After (g),0.024
+=====,=====
+Time (s),Temperature (C)
+0,24.2
+30,24.19
+60,24.21
+90,24.2
+120,24.2
+150,24.18
+180,24.2
+210,24.21
+240,24.22
+270,24.2
+300,24.21
+330,24.9
+360,25.98
+390,26.8
+420,27.36
+450,27.67
+480,27.84
+510,27.96
+540,28.05
+570,28.05
+600,28.08
+630,28.1
+660,28.09
+690,28.11
+720,28.07
+750,28.1
+780,28.06
+810,28.1
+840,28.07
+870,28.1
+900,28.06
+930,28.06
+960,28.08

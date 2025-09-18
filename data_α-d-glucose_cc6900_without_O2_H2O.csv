@@ -1,0 +1,46 @@
+﻿Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #6900
+Sample Name,Î±-D-Glucose
+Formula,C6H12O6
+Molecular Weight (g/mol),180.126
+Sample Weight (g),1.0489
+Water Temp (deg C),24.1
+Room Temp (deg C),23.38
+Water Volume (L),2
+Wire Before (g),0.021
+Wire After (g),0.015
+=====,=====
+Time (s),Temperature (C)
+0,23.38
+30,23.38
+60,23.38
+90,23.39
+120,23.39
+150,23.36
+180,23.37
+210,23.4
+240,23.38
+270,23.39
+300,23.38
+330,23.39
+360,23.39
+390,23.37
+420,23.39
+450,23.38
+480,23.37
+510,23.37
+540,23.36
+570,23.39
+600,23.36
+630,23.39
+660,23.37
+690,23.36
+720,23.39
+750,23.36
+780,23.39
+810,23.39
+840,23.38
+870,23.39
+900,23.37
+930,23.38
+960,23.39
